@@ -38,7 +38,7 @@ class _HomeState extends State<Home> {
           height: 1080.0,
         ),
         Column(mainAxisAlignment: MainAxisAlignment.center, children: <Widget>[
-          Text("Pessoas: $_people",
+          Text("Siths: $_people",
               style:
                   TextStyle(color: Colors.white, fontWeight: FontWeight.bold)),
           Row(mainAxisAlignment: MainAxisAlignment.center, children: <Widget>[
