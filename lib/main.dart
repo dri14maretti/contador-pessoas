@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-void main() {
+void main() { 
   runApp(MaterialApp(title: "Contador de Pessoas", home: Home()));
 }
 
